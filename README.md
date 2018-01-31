@@ -1,1 +1,6 @@
 # mecanki
+
+dependências
+
+mecab
+pyexcel
